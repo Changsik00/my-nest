@@ -39,11 +39,11 @@ $ npm run test:cov
 
 ### PlanetScale
 
-https://docs.nestjs.com/recipes/prisma
-https://shadcn.com/next-prisma-planetscale-vercel
-https://docs.planetscale.com/tutorials/automatic-prisma-migrations
-https://docs.planetscale.com/reference/planetscale-cli
-https://github.com/prisma/prisma/issues/7292
+https://docs.nestjs.com/recipes/prisma   
+https://shadcn.com/next-prisma-planetscale-vercel   
+https://docs.planetscale.com/tutorials/automatic-prisma-migrations   
+https://docs.planetscale.com/reference/planetscale-cli   
+https://github.com/prisma/prisma/issues/7292   
 
 1. planetscale 계정 세팅, github에 my-nest 리파지토리 생성
 2. prisma project 설정 및 github, planetscale 연동
